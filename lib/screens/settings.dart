@@ -38,7 +38,7 @@ class _SettingState extends State<Setting> {
                   fontWeight: FontWeight.w900,
                 ),
               ),
-              subtitle: Text("Aplikasi Media Sosial yang Berfungsi Penuh Dibuat oleh CharlyKeleb"),
+              subtitle: Text("Kelompok Programming mobile \n Ahmad Septiana \n Andre Priyono \n Ichsan Fadilah \n Ziyan \n Patrick"),
               trailing: Icon(Icons.error)
             ),
             Divider(),
