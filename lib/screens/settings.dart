@@ -38,7 +38,7 @@ class _SettingState extends State<Setting> {
                   fontWeight: FontWeight.w900,
                 ),
               ),
-              subtitle: Text("Kelompok Programming mobile \n Ahmad Septiana \n Andre Priyono \n Ichsan Fadilah \n Ziyan \n Patrick"),
+              subtitle: Text("Kelompok Programming mobile \n Ahmad Septiana 19552011147 \n Andre Priyono 19552011192 \n Ichsan Fadilah 19552011135  \n Ziyan 19552011057 \n Patrick 19552011172"),
               trailing: Icon(Icons.error)
             ),
             Divider(),
